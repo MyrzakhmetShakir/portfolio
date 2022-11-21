@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ae7b7c77.css",
+    "main.js": "/portfolio/static/js/main.2fa7db0b.js",
+    "static/media/wordpress-923188_1920.jpg": "/portfolio/static/media/wordpress-923188_1920.925985bab1b81fe6f4fa.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.ae7b7c77.css.map": "/portfolio/static/css/main.ae7b7c77.css.map",
+    "main.2fa7db0b.js.map": "/portfolio/static/js/main.2fa7db0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7b7c77.css",
+    "static/js/main.2fa7db0b.js"
+  ]
+}
