@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="Data struct Javascript.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36391344"
+     inkscape:cx="278.91248"
+     inkscape:cy="522.10218"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="287.50656"
+       y="60.945688"
+       width="576.92705"
+       height="117.42716"
+       id="rect268755" />
+    <rect
+       x="370.86744"
+       y="112.30301"
+       width="212.25121"
+       height="131.74484"
+       id="rect239603" />
+    <rect
+       x="296.41052"
+       y="377.94825"
+       width="566.19193"
+       height="51.328526"
+       id="rect127422" />
+    <rect
+       x="288.61271"
+       y="327.13141"
+       width="494.36078"
+       height="156.09015"
+       id="rect82795" />
+    <rect
+       x="316.52654"
+       y="372.69296"
+       width="541.98542"
+       height="125.87138"
+       id="rect54241" />
+    <rect
+       x="322.29917"
+       y="333.65806"
+       width="377.31919"
+       height="140.4579"
+       id="rect43525" />
+    <rect
+       x="262.12889"
+       y="253.57443"
+       width="475.60954"
+       height="211.22365"
+       id="rect33464" />
+    <rect
+       x="129.16804"
+       y="163.88007"
+       width="176.72446"
+       height="72.720626"
+       id="rect23534" />
+    <rect
+       x="296.41052"
+       y="377.94825"
+       width="566.19193"
+       height="51.328526"
+       id="rect150307" />
+    <rect
+       x="296.41052"
+       y="377.94825"
+       width="566.19193"
+       height="51.328526"
+       id="rect167535" />
+    <rect
+       x="370.86744"
+       y="112.30301"
+       width="212.25121"
+       height="131.74484"
+       id="rect243859" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#fffcef;fill-opacity:1;stroke:none;stroke-width:0.778896;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect234866"
+       width="290.31"
+       height="203.46976"
+       x="3.0562479"
+       y="2.8935635"
+       ry="0"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(2.4476247,0,0,2.2322943,-746.76165,-154.21288)"
+       id="text239601"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect239603);opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="370.86719"
+         y="147.69336"
+         id="tspan322554">JS</tspan></text>
+    <path
+       style="fill:#ffce00;fill-opacity:1;stroke:none;stroke-width:0.265249px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.0574058,2.7937586 V 206.88269 H 40.553812 C 91.132721,160.08332 63.751445,123.27234 48.308157,72.634326 41.044885,48.818299 43.473014,19.338181 55.13088,2.8485419 Z"
+       id="path1005"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5563"
+       style="fill:#ffc000;fill-opacity:1;stroke:none;stroke-width:0.265249px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.436888,2.8434689 -0.237712,0.059209 C 23.116932,34.27632 39.019339,128.58592 3.4614605,144.21203 l -0.4041097,0.26696 v 62.40395 H 40.553769 C 91.132677,160.08357 63.751623,123.27245 48.308334,72.634435 41.045063,48.818407 43.47279,19.338301 55.130657,2.8486627 Z"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#451956;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 38.538902,72.598956 C 57.370117,140.77445 50.926299,159.53888 3.2311516,192.80196 L 3.0574058,206.88269 H 35.188242 c 41.013977,-47.04826 32.238751,-63.33844 3.35066,-134.283734 z"
+       id="path1895"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#451956;fill-opacity:1;stroke:none;stroke-width:0.265007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.42657,2.9456591 C 213.95971,48.194235 269.61577,64.680462 293.6114,115.5783 L 293.48963,3.0314574 Z"
+       id="path6194"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffce00;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 236.5781,50.237418 57.36561,34.013706 V 129.40213 C 278.29628,98.444224 230.0203,102.19813 236.5781,50.237418 Z"
+       id="path6514"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.45240126,0,0,0.45240126,-36.938666,-60.285091)"
+       id="text33462"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect33464);fill:#451956;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="262.12891"
+         y="290.87391"
+         id="tspan322558"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan322556">CERTIFICATE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18710568,0,0,0.18710568,33.575489,13.200385)"
+       id="text43523"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;white-space:pre;shape-inside:url(#rect43525);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="322.29883"
+         y="369.04883"
+         id="tspan322560">OF COMPLETION</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27366583,0,0,0.27366583,16.405502,27.083718)"
+       id="text54239"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect54241);fill:#451956;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="316.52734"
+         y="406.08398"
+         id="tspan322564"><tspan
+           style="font-weight:bold;font-family:serif;-inkscape-font-specification:'serif Bold'"
+           id="tspan322562">Data structures &amp;&amp; </tspan></tspan><tspan
+         x="316.52734"
+         y="452.08398"
+         id="tspan322568"><tspan
+           style="font-weight:bold;font-family:serif;-inkscape-font-specification:'serif Bold'"
+           id="tspan322566">Algorithms - JavaScript</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,35.812519,6.0038239)"
+       id="text82793"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.05;font-family:sans-serif;white-space:pre;shape-inside:url(#rect82795);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="288.61328"
+         y="343.8725"
+         id="tspan322570">This certificate verifies that 
+</tspan><tspan
+         x="288.61328"
+         y="366.27246"
+         id="tspan322572">
+</tspan><tspan
+         x="288.61328"
+         y="388.67243"
+         id="tspan322574">
+</tspan><tspan
+         x="288.61328"
+         y="411.07239"
+         id="tspan322576">
+</tspan><tspan
+         x="288.61328"
+         y="433.47235"
+         id="tspan322578">successfully completed the course</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22248319,0,0,0.22248319,33.180587,18.210486)"
+       id="text127420"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';white-space:pre;shape-inside:url(#rect127422);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="296.41016"
+         y="414.94922"
+         id="tspan322580">MYRZAKHMET SHAKIROV </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.15022498,0,0,0.15022498,85.913821,137.09079)"
+       id="text150305"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';white-space:pre;shape-inside:url(#rect150307);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="296.41016"
+         y="414.94922"
+         id="tspan322584"><tspan
+   style="font-weight:normal;-inkscape-font-specification:FreeSerif"
+   id="tspan322582">Date</tspan> Dec. 15, 2022 </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.15022498,0,0,0.15022498,81.654466,130.54124)"
+       id="text167533"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';white-space:pre;shape-inside:url(#rect167535);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="296.41016"
+         y="414.94922"
+         id="tspan322588"><tspan
+   style="font-weight:normal;-inkscape-font-specification:FreeSerif"
+   id="tspan322586">Instructor</tspan> Scott Barrett</tspan></text>
+    <g
+       id="g294013"
+       transform="translate(-1.3243736,2.0918532)"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.24104323,0,0,0.24104323,214.49903,143.87385)"
+         id="text23532"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect23534);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="129.16797"
+           y="199.27148"
+           id="tspan322590">udemy</tspan></text>
+      <path
+         style="fill:#bc00f1;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 248.10087,185.35783 1.01355,-1.43445 0.98474,1.50958 1.50197,0.023 -2.52219,-3.62663 -2.70219,3.55133 z"
+         id="path211938"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g243857"
+       transform="translate(-206.90429,-126.78464)"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:#ffce00;fill-opacity:1;stroke:#000000;stroke-width:0.0943726;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect243851"
+         width="29.44742"
+         height="29.44742"
+         x="234.14128"
+         y="159.40016"
+         ry="2.9499023" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.3700642,0,0,0.3700642,107.29865,128.23249)"
+         id="text243855"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect243859);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="370.86719"
+           y="147.69336"
+           id="tspan322592">JS</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.2852723,-1.5206552)"
+       id="text268753"
+       style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect268755);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/myrza/Документы/дипломы сертификаты/ds and algorithms.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="287.50586"
+         y="73.921905"
+         id="tspan322594">Certificate no: UC-e7ab837f-bb4d-4af5-bb6a-2ef7d2bf753a
+</tspan><tspan
+         x="287.50586"
+         y="92.255279"
+         id="tspan322596">Certificate url: ude.my/UC-e7ab837f-bb4d-4af5-bb6a-2ef7d2bf753a/
+</tspan><tspan
+         x="287.50586"
+         y="110.58865"
+         id="tspan322598">Reference Number: 0004</tspan></text>
+  </g>
+</svg>
